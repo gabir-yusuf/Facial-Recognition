@@ -4,3 +4,6 @@
 `pip install -r requirements.txt`
 - This did this code on Google Colab. in this case you will not need to install any requirments because it's already installed.
 - If you will use Colab (**Recommended**) open the [project](https://colab.research.google.com/drive/1PJ2pf1TozL1RlumXrnCo1n9jQueoTAWH) and run the code directly 
+## Some outputs
+![output1](https://github.com/gabir-yusuf/Face-Recognition/blob/master/output1.PNG)
+![output2](https://github.com/gabir-yusuf/Face-Recognition/blob/master/output2.PNG)
